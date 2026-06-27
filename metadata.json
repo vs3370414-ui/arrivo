@@ -1,0 +1,6 @@
+{
+  "name": "Arrivo",
+  "description": "Premium highway travel food pre-ordering platform that syncs meal preparation with the traveler's live ETA to serve fresh food immediately upon arrival.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
